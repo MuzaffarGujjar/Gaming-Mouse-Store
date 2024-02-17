@@ -1,3 +1,3 @@
-Gaming Mouse Store Dseign
-Gaming moiuse store design in HTML and CSS
-Must try
+# Gaming Mouse Store Dseign
+Gaming mouse store design in HTML and CSS
+Must Try
